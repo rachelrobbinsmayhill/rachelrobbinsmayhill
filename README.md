@@ -1,17 +1,16 @@
-### 👋 Thank you for stopping by!
- 
-After taking a look around, feel free to reach out and connect.
-
-===
+### Thank you for stopping by! 
+#### After taking a look around, feel free to reach out and connect.
+--- 
 
 📫 ***Ways to Connect:***  
-- ✨ Click 👉 [here](www.linkedin.com/in/rachel-robbins-mayhill) 👈 for my LinkedIn
+- ✨ Click 👉 [!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/rachel-robbins-mayhill) 👈 for my LinkedIn
 - ✨ Email: rachel.robbinsmayhill@gmail.com
-
-😄 **Pronouns:** She/Her/Hers
  
-===
 
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelrobbinsmayhill&theme=nightowl&show_icons=true)
+
+
+--- 
 🎯 ***What I am Currently Working On:***
 - Completion of Codeup Data Science Program in San Antonio, TX
 - Expected Graduation: June 2022
@@ -30,23 +29,36 @@ After taking a look around, feel free to reach out and connect.
 - How to learn Data Science.
 - What I loved about my Codeup Experience!
 - Why I am passionate about building a community everywhere I go!
+  
  
+ --- 
+***Trained In:***
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/interactive_notebook-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+![mac](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
-🤔 ***I’m Looking for Help With:**
-- Anything that will continue to build upon my foundational skills with coding using 
--  python 
--  pandas 
--  SQL
- 
- 
+
+
+***Always Willing to Work Together to Develop Advanced Skills In:***
+- ![Python](https://img.shields.io/badge/Language-Python-yellow)
+- ![Pandas](https://img.shields.io/badge/Python_Library-Pandas-blue)
+- ![SQL](https://img.shields.io/badge/Language-SQL-red)
+
+--- 
 ⚡ **Fun Facts:** 
 - ✨ I spent 10 years in the Army trained as a Counselor, then became an Elementary School Teacher!
-- ✨ I've been blessed to have lived on nearly every continent on Earth, which has fed my infinite curiosity (and love for) people and culture. 
-- ✨ I am originally from the Northwest and can't get enough of being in nature. 🌱 
-- ✨ I have a degree from Oregon State University and was the Student Body President for my campus my senior year. 
+- ✨ Having lived on nearly every continent, has fed my infinite curiosity (and love for) people and culture. 
+- ✨ I'm originally from the Northwest and can't get enough of being in nature. 🌱 
+- ✨ My degree is from Oregon State University where I was the campus Student Body President my senior year. 
  
  
 
  
- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelrobbinsmayhill&theme=nightowl&show_icons=true)
+
  
