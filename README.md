@@ -3,7 +3,7 @@
 --- 
 
 📫 ***Ways to Connect:***  
-- ✨ Click 👉 [!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/rachel-robbins-mayhill) 👈 for my LinkedIn
+- ✨ Click 👉 [here](www.linkedin.com/in/rachel-robbins-mayhill) 👈 for my LinkedIn
 - ✨ Email: rachel.robbinsmayhill@gmail.com
  
 
