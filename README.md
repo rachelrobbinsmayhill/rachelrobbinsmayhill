@@ -14,7 +14,7 @@
 🎯 ***What I am Currently Working On:***
 - Completion of Codeup Data Science Program in San Antonio, TX
 - Expected Graduation: June 2022
-- 📊 I’m currently learning Machine Learning Methods, such as Classification and Regression
+- 📊 Currently learning Machine Learning Methods, such as Classification and Regression
  
  
 💙 ***What I Love About Data Science:***
