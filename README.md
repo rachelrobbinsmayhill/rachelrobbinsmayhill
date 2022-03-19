@@ -58,9 +58,3 @@
 - ✨ Having lived on nearly every continent, has fed my infinite curiosity (and love for) people and culture. 
 - ✨ I'm originally from the Northwest and can't get enough of being in nature. 🌱 
 - ✨ My degree is from Oregon State University where I was the campus Student Body President my senior year. 
- 
- 
-
- 
-
- 
